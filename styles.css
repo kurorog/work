@@ -1,0 +1,13 @@
+.but {
+  background-color: #007bff;
+  color: rgb(84, 29, 29);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+}
+.but:hover {
+  background-color: #0056b3;
+}/*# sourceMappingURL=styles.css.map */
